@@ -30,29 +30,29 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "E-commerce Website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "An e-commerce website where users can browse products, add them to a shopping cart, make purchases, and manage their orders. Implemented features such as user authentication, product search, product categories, and payment processing.",
+    url: "lorem10",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Task Management Application",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A task management application that allows users to create, update, and delete tasks. Implemented features such as user authentication, task categories, and task search.",
+    url: "lorem10",
   },
-  {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
-  },
+  // {
+  //   title: "My Resume Site",
+  //   description:
+  //     "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+  //   url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+  // },
+  // {
+  //   title: "GitHub Codespaces and github.dev",
+  //   description:
+  //     "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
+  //   url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+  // },
 ];
 
 const Portfolio = () => {
