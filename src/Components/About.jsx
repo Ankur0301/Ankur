@@ -31,7 +31,7 @@ const description =
  */
 const skillsList = [
   "React",
-  "MongpDB",
+  "MongoDB",
   "Express",
   "Node.js",
   "Frameworks (Bootstrap, Materialize)",
